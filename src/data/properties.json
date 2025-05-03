@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1,
+    "title": "Elite PG",
+    "location": "Chennai",
+    "rent": 5500,
+    "available": true,
+    "contact": "9876543210",
+    "image": "https://images.jdmagicbox.com/v2/comp/mumbai/i1/022pxx22.xx22.191210150545.p3i1/catalogue/pg-homes-airoli-navi-mumbai-paying-guest-accommodations-fnp7qq84db.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Queen's PG",
+    "location": "Bangalore",
+    "rent": 4500,
+    "available": false,
+    "contact": "9123456780",
+    "image": "https://content.jdmagicbox.com/v2/comp/mumbai/u7/022pxx22.xx22.230918140740.t9u7/catalogue/sharaney-pg-accommodation-airoli-sector-4-navi-mumbai-paying-guest-accommodations-8l8vsgc3oh.jpg"
+  },
+  {
+    "id": 3,
+    "title": "King's PG",
+    "location": "Pune",
+    "rent": 7000,
+    "available": true,
+    "contact": "9988776655",
+    "image": "https://img.staticmb.com/mbphoto/pg/grd2/cropped_images/2022/Jun/28/Photo_h400_w540/GR2-300069-1415653_400_540.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Star PG",
+    "location": "Mumbai",
+    "rent": 6000,
+    "available": true,
+    "contact": "9876501234",
+    "image": "https://content.jdmagicbox.com/comp/kolkata/w4/pwfl1563195956q8g7w4/catalogue/rowland-girls-pg-kolkata-bhilcmjjyh.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Royal PG",
+    "location": "Hyderabad",
+    "rent": 5000,
+    "available": false,
+    "contact": "7890123456",
+    "image": "https://content.jdmagicbox.com/comp/kolkata/b3/033pxx33.xx33.100624104539.f6b3/catalogue/ashok-kumar-agarwala-kolkata-1kevmrzomp.jpg"
+  },
+  {
+    "id": 6,
+    "title": "City PG",
+    "location": "Delhi",
+    "rent": 6500,
+    "available": true,
+    "contact": "9012345678",
+    "image": "https://zolostays.com/blog/wp-content/uploads/2023/11/Zolo_Mustard_PG_in_Marathahalli.webp"
+  },
+  {
+    "id": 7,
+    "title": "Metro PG",
+    "location": "Ahmedabad",
+    "rent": 4200,
+    "available": true,
+    "contact": "9345678901",
+    "image": "https://i0.wp.com/stanzaliving.wpcomstaging.com/wp-content/uploads/2022/04/d601b-hostels-vs-pgs-min.jpg?fit=4000%2C3000&ssl=1"
+  },
+  {
+    "id": 8,
+    "title": "Lakeview PG",
+    "location": "Kochi",
+    "rent": 4700,
+    "available": false,
+    "contact": "9765432109",
+    "image": "https://alexandro.in/image/gurgoan/settl-vienna/3.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Sunrise PG",
+    "location": "Jaipur",
+    "rent": 5200,
+    "available": true,
+    "contact": "9843210765",
+    "image": "https://orionhostels.com/wp-content/uploads/2017/01/Single-room-1024x766.jpeg"
+  },
+  {
+    "id": 10,
+    "title": "Hillside PG",
+    "location": "Shimla",
+    "rent": 4300,
+    "available": true,
+    "contact": "9678432101",
+    "image": "https://img.squareyards.com/secondaryPortal/IN_638688388169146211-031224040656656.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Ocean PG",
+    "location": "Goa",
+    "rent": 6100,
+    "available": true,
+    "contact": "9123067854",
+    "image": "https://alexandro.in/image/pune/yourspace-vimannagar/4.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Green PG",
+    "location": "Bhopal",
+    "rent": 3900,
+    "available": false,
+    "contact": "9263748192",
+    "image": "https://alexandro.in/image/pune/helloworld-embassy/5.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Sky PG",
+    "location": "Noida",
+    "rent": 5600,
+    "available": true,
+    "contact": "9347829103",
+    "image": "https://images.jdmagicbox.com/comp/karad/b1/9999p2164.2164.160223124854.e9b1/catalogue/girls-ladies-hostel-facility-and-pg-accommodation-karad-hostel-for-girl-students-yp3pso1aug.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Galaxy PG",
+    "location": "Lucknow",
+    "rent": 4100,
+    "available": false,
+    "contact": "9456872341",
+    "image": "https://asset-cdn.stanzaliving.com/stanza-living/image/upload/f_auto,q_auto/v1638171041/Website/CMS-Uploads/mkyzlne7ymcs4ejqnwpf.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Pearl PG",
+    "location": "Nagpur",
+    "rent": 4800,
+    "available": true,
+    "contact": "9823654791",
+    "image": "https://asset-cdn.stanzaliving.com/stanza-living/image/upload/f_auto,q_auto,w_600/e_improve/e_sharpen:10/e_saturation:10/f_auto,q_auto/v1654172710/Website/CMS-Uploads/shs0zm6y67juucgt7us2.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Moonlight PG",
+    "location": "Mysore",
+    "rent": 4300,
+    "available": false,
+    "contact": "9647382910",
+    "image": "https://images.jdmagicbox.com/v2/comp/bhubaneshwar/v1/0674px674.x674.240727154413.e2v1/catalogue/tranquil-girls-pg-nayapalli-bhubaneshwar-paying-guest-accommodations-for-women-d91z5a4ov3.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Cozy Corner PG",
+    "location": "Coimbatore",
+    "rent": 3700,
+    "available": true,
+    "contact": "9362718402",
+    "image": "https://content.jdmagicbox.com/comp/jaipur/q4/0141px141.x141.190921085010.l6q4/catalogue/alka-girls-pg-home-shastri-nagar-jaipur-hostel-for-girl-students-hhpdjgfzv5.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Silver Nest PG",
+    "location": "Trichy",
+    "rent": 4000,
+    "available": true,
+    "contact": "9214738290",
+    "image": "https://content.jdmagicbox.com/comp/udaipur-rajasthan/t2/9999px294.x294.230428154436.h3t2/catalogue/maruti-girls-pg-manva-kheda-udaipur-rajasthan-paying-guest-accommodations-8zreew4ztg.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Dream PG",
+    "location": "Surat",
+    "rent": 5000,
+    "available": false,
+    "contact": "9578123490",
+    "image": "https://content.jdmagicbox.com/comp/ahmedabad/k7/079pxx79.xx79.230219213050.s1k7/catalogue/madhav-pg-gurukul-ahmedabad-paying-guest-accommodations-for-boy-student-6w0opsi7lp-250.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Comfort Stay PG",
+    "location": "Vijayawada",
+    "rent": 4600,
+    "available": true,
+    "contact": "9123049583",
+    "image": "https://wakeuphostels.in/wp-content/uploads/elementor/thumbs/4-sharing-ladies-pg-jayanagar-1-pcgrwxefbzss8kiy03tbcqxzdjhlg76z6febuc9m48.jpeg"
+  },
+  {
+    "id": 21,
+    "title": "CosyHome PG",
+    "location": "Visakhapatnam",
+    "rent": 4900,
+    "available": true,
+    "contact": "9391029384",
+    "image": "https://wakeuphostels.in/wp-content/uploads/elementor/thumbs/2-sharing-nomads-ladies-pg-jayanagar-2-pcgrwcpz5n0h55czcuvitw5ub2biquwvrl1na949x4.jpeg"
+  },
+  {
+    "id": 22,
+    "title": "Happy Nest PG",
+    "location": "Madurai",
+    "rent": 4200,
+    "available": false,
+    "contact": "9012349567",
+    "image": "https://content.jdmagicbox.com/v2/comp/bangalore/j7/080pxx80.xx80.210326175315.c7j7/catalogue/sri-balaji-luxurious-ladies-pg-jayanagar-4th-block-bangalore-paying-guest-accommodations-for-women-hokskf7hab.jpg"
+  },
+  {
+    "id": 23,
+    "title": "Fresh View PG",
+    "location": "Indore",
+    "rent": 5100,
+    "available": true,
+    "contact": "9112345890",
+    "image": "https://content.jdmagicbox.com/v2/bangalore/i4/080pxx80.xx80.161108143313.w4i4/catalogue/ayeshas-paradise-electronic-city-phase-1-bangalore-paying-guest-accommodation-for-women-y4o5n-250.jpg"
+  },
+  {
+    "id": 24,
+    "title": "Urban Nest PG",
+    "location": "Thane",
+    "rent": 4700,
+    "available": true,
+    "contact": "9845632170",
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/318139295.jpg?k=87672c3d100218fff91533261f313f176e50432b023d2ef5096b1d919b1ef829&o=&hp=1"
+  },
+  {
+    "id": 25,
+    "title": "Zenith PG",
+    "location": "Raipur",
+    "rent": 4400,
+    "available": false,
+    "contact": "9876543098",
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/333047675.jpg?k=3f883050fb623b5ae685128c5f1e96b9b7a0c87cb9dbbf33668bb2e5c776a710&o=&hp=1"
+  }
+]
