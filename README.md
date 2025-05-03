@@ -4,7 +4,7 @@ A React-based web application for finding PG accommodations across different cit
 
 ## 🏠 Live Demo
 
-thiruvikram-apnapg.netlify.app
+- Click here: [Apna PG](thiruvikram-apnapg.netlify.app)
 
 ## ✨ Features
 
