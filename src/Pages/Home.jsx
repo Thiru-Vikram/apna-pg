@@ -1,9 +1,9 @@
-import { useState, useEffect } from 'react';
-import { useNavigate } from 'react-router-dom';
-import './Home.css';
-import PropertyCard from '../Components/PropertyCard';
-import Footer from '../Components/Footer';
-import properties from '../data/properties.json';
+import { useState, useEffect } from "react";
+import { useNavigate } from "react-router-dom";
+import "./Home.css";
+import PropertyCard from "../Components/PropertyCard";
+import Footer from "../Components/Footer";
+import properties from "../data/properties.json";
 
 function Home() {
   const navigate = useNavigate();
@@ -14,7 +14,7 @@ function Home() {
     try {
       setPropertyList(properties.slice(0, 4));
     } catch (error) {
-      console.error('Error loading properties:', error);
+      console.error("Error loading properties:", error);
     } finally {
       setIsLoading(false);
     }
@@ -25,12 +25,14 @@ function Home() {
       <section className="hero">
         <h1>Find Your Perfect Stay</h1>
         <p>Affordable PGs and Hostels for Students</p>
-        <button 
+        <button
           className="search-button"
-          onClick={() => document.querySelector('.property-grid').scrollIntoView({ 
-            behavior: 'smooth',
-            block: 'start'
-          })}
+          onClick={() =>
+            document.querySelector(".property-grid").scrollIntoView({
+              behavior: "smooth",
+              block: "start",
+            })
+          }
         >
           Search Now
         </button>
@@ -50,11 +52,10 @@ function Home() {
         )}
       </section>
 
-      {/* Show Explore More button since we have 25 properties total */}
       <div className="explore-more-container">
-        <button 
+        <button
           className="explore-more-button"
-          onClick={() => navigate('/explore')}
+          onClick={() => navigate("/explore")}
         >
           Explore More
         </button>
